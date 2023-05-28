@@ -132,9 +132,10 @@ h6 {
     font-size: 36px;
   }
 
-  #header h2 {
+  #header h2 h1{
     font-size: 20px;
     line-height: 30px;
+    color: black;
   }
 
   #header .social-links {
@@ -146,6 +147,8 @@ h6 {
     flex-direction: column;
     align-items: center;
   }
+
+
 }
 
 /* Header Top */
@@ -335,7 +338,8 @@ h6 {
 
 /*--------------------------------------------------------------
 # Sections General
---------------------------------------------------------------*/
+-----------------------------
+---------------------------------*/
 section {
   overflow: hidden;
   position: absolute;
